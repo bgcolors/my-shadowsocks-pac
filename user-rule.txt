@@ -1,0 +1,13 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+
+||laravel.com^
+||adblockplus.org^
+||laracasts.com^
+||github.com^
+||sourceforge.net^
+||mozilla.org^
+||w3schools.com^
+||codecademy.com^
+||bandwagonhost.com^
+||kiwivm.64clouds.com^
